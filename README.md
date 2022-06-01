@@ -18,8 +18,8 @@ Manual damage identification from large visual inspection data sources demands t
 ### Apporch - Damage detection using CNNs and transfer learning strategies 
 Standard CNN with random initialisation for damage detection            |  VGG16 with random initialisation for damage detection
 :-------------------------:|:-------------------------:
-![](https://github.com/Zaharah/BiNet-bridge-visual-inspection-dataset/blob/main/codebrim_vgg.png)  |  ![](https://...Ocean.png)
+![](https://github.com/Zaharah/BiNet-bridge-visual-inspection-dataset/blob/main/ri.png)  |  ![](https://github.com/Zaharah/BiNet-bridge-visual-inspection-dataset/blob/main/ri_vgg.png) |
 
-3.	Pretrained VGG16 with ImageNet           |  4.	Pretrained VGG16 with CODEBRIM dataset
+Pretrained VGG16 with ImageNet           |  Pretrained VGG16 with CODEBRIM dataset |
 :-------------------------:|:-------------------------:
 ![](https://...Dark.png)  |  ![](https://...Ocean.png)
