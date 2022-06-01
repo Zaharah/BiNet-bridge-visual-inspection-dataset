@@ -16,10 +16,11 @@ Manual damage identification from large visual inspection data sources demands t
 --
 
 ### Apporch - Damage detection using CNNs and transfer learning strategies 
+We are proposing the utilisation of deep learning techniques, specifically convolutional neural networks (CNNs), to automatically detect and classify the damages from visual inspection datasets. CNNs are known to perform well with a large amount of data. However, with the manual labelling of domain-specific datasets, the labelled data is most scarce. Therefore, we follow the evaluation approach defined [our previour paper](https://link.springer.com/article/10.1007/s00521-021-06279-x) to compare multiple transfer learning strategies and CNN architectures for developing a robust predictive model. We mainly compare four different approaches as illustrated below:
 Standard CNN with random initialisation for damage detection            |  VGG16 with random initialisation for damage detection
 :-------------------------:|:-------------------------:
 ![](https://github.com/Zaharah/BiNet-bridge-visual-inspection-dataset/blob/main/ri.png)  |  ![](https://github.com/Zaharah/BiNet-bridge-visual-inspection-dataset/blob/main/ri_vgg.png) |
 
 Pretrained VGG16 with ImageNet           |  Pretrained VGG16 with CODEBRIM dataset |
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+![](https://github.com/Zaharah/BiNet-bridge-visual-inspection-dataset/blob/main/imagenet_vgg.png)   |  ![](https://github.com/Zaharah/BiNet-bridge-visual-inspection-dataset/blob/main/codebrim_vgg.png) 
