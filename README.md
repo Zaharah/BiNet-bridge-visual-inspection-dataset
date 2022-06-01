@@ -3,7 +3,7 @@ Manual damage identification from large visual inspection data sources demands t
 
 
 <b> The overview of BiNet and train/test split </b>
-<center>
+
 | Classes | Number of images | Train split  | Test split |
 | :---         |     :---:      |          :---: |   ---:|
 | Cracks   | 1330     | 931     | 399 |
@@ -12,5 +12,5 @@ Manual damage identification from large visual inspection data sources demands t
 | Exposed bars | 942     | 659 | 283  |
 | Total | 3588 | 2431 | 1042 | 
 
-  </center>
+
 ---
